@@ -11,8 +11,6 @@ public class ExceptionDemo {
 		}else {
 			throw new ArithmeticException("The age is <18, so not eligible for voting");
 		}
-		
-
 	}
 
 }
