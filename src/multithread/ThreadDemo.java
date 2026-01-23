@@ -9,5 +9,4 @@ public class ThreadDemo {
 			Thread.sleep(5000);
 		}
 	}
-
 }

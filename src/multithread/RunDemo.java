@@ -7,8 +7,6 @@ public class RunDemo {
 		Thread t=new Thread(rd);
 		t.start();
 		
-		
-
 	}
 
 }
