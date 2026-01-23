@@ -6,4 +6,5 @@ public interface Bank {
 	
 	void deposite(Account account,double amount);
 	void withdrawl(Account account,double amount);
+
 }
